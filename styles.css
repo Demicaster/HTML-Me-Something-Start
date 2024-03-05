@@ -1,1 +1,46 @@
 /* Write your CSS here! */
+p {
+    font-size: 20px;
+    color: black;
+    
+  }
+  #mainHeading{
+    font-size: 50px;
+    font-style:oblique;
+    color: red;
+
+
+  }
+  .funParagraph{
+    font-size : 25px;
+    color: green;
+    background-color: lightgrey;
+    border : 5px solid grey;
+  
+  }
+  img {
+    border: 5px solid #A9A9A9;
+  }
+  a{
+    font-size: 25px;
+    background-color: rgb(158, 142, 218);
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    border: 5px solid rgb(98, 1, 150);
+  }
+ 
+main {
+
+    
+  }
+  body{
+    background-image: url("/Background.png");
+    display:block;
+    margin: 8px;
+    margin-left: 200px ;
+    margin-right: 200px;
+    text-align: center;
+  
+  }
